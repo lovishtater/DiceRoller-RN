@@ -11,7 +11,8 @@
 
 ### Quick preview
 
-![Screenshot gif]()
+<!-- ![Screenshot gif](demo.jpeg) -->
+<img src="demo.jpeg" width="130" />
 
 ## 💻 Technologies
 
@@ -20,7 +21,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](https://github.com/lovishtater/DiceRoller-RN/raw/main/diceRoller.apk)
+- Android ([Download APK](https://github.com/lovishtater/DiceRoller-RN/raw/main/diceRoller.apk))
 
 ## How to run
 

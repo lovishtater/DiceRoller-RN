@@ -20,7 +20,7 @@
 
 ## Supported Platforms
 
-- Android ([Download APK](https://github.com/))
+- Android ([Download APK](https://github.com/lovishtater/DiceRoller-RN/raw/main/diceRoller.apk)
 
 ## How to run
 
